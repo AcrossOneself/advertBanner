@@ -1,2 +1,7 @@
 # advertBanner
-vanilla css js, responsive advert banner, flip-card animation
+
+Summary:
+ - vanilla css js
+ - responsive advert banner
+ - flip-card animation
+
